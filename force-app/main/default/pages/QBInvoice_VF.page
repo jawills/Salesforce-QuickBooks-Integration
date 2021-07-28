@@ -1,0 +1,2 @@
+<apex:page standardcontroller="Invoice__c" extensions="QBInvoice_Controller" action="{!syncQB}">
+</apex:page>
